@@ -32,6 +32,6 @@
     + git clone https://github.com/PuTongFish/chatroom.git
     + cd chatroom
 + 提交项目到仓库
-    + git add.
+    + git add .
     + git commit -m xxxx
     + git push origin master
